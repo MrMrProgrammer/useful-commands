@@ -1,4 +1,4 @@
 history : show history of latest command in terminal
 
-history | grep httpd : fildter history by "httpd"
+history | grep httpd : filter history by "httpd"
 
