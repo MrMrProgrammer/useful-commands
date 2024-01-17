@@ -8,6 +8,6 @@ history | grep httpd : filter history by "httpd"
 
 Kill a port in ubuntu
 
-sudo kill -9 $(sudo lsof -t -i:9001)
+sudo kill -9 $(sudo lsof -t -i:8000)
 
 =============================================================================
