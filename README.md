@@ -47,4 +47,3 @@ chmod -R 777 'FOLDER NAME'
  
 
 ---
-
