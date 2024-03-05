@@ -14,6 +14,14 @@ sudo kill -9 $(sudo lsof -t -i:8000)
 
 ---
 
+### Open a port :
+
+```markdown
+sudo ufw allow <port>
+```
+
+---
+
 ### Run Streamlit file
 ```markdown
 streamlit run app.py --server.fileWatcherType none
