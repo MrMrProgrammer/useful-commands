@@ -7,9 +7,23 @@ history | grep httpd : filter history by "httpd"
 ---
 
 ### Kill a port in ubuntu
-```markdown
 
+```markdown
 sudo kill -9 $(sudo lsof -t -i:8000)
+```
+
+---
+
+### Installation using pip without description and with description
+
+#### without description:
+```markdown
+pip install -q <something>
+```
+
+#### with description:
+```markdown
+pip install -v <something>
 ```
 
 ---
