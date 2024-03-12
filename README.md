@@ -44,6 +44,13 @@ streamlit run app.py --server.fileWatcherType none
 
 ---
 
+### Change Jupyter Notebook Theam :
+```markdown
+https://saturncloud.io/blog/jupyter-notebook-dark-mode-a-step-by-step-guide/
+```
+
+---
+
 ### Give access to files and folders
 
 chmod [مجوزها] [فایل یا پوشه]
