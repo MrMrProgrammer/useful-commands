@@ -37,10 +37,13 @@ sudo ufw allow <port>
 ---
 
 ### Run Streamlit file
+
 ```markdown
 streamlit run app.py --server.fileWatcherType none
 ```
+
 ---
+
 ### Give access to files and folders
 
 chmod [مجوزها] [فایل یا پوشه]
