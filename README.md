@@ -1,3 +1,18 @@
+### Failure to display warnings
+
+```python
+import warnings
+warnings.filterwarnings("ignore")
+```
+
+#### Show warnings :
+```python
+warnings.filterwarnings("default")
+```
+
+---
+
+
 ### Show history of latest command in terminal
 
 ```markdown
@@ -38,7 +53,7 @@ sudo ufw allow <port>
 
 ### Run Streamlit file
 
-```markdown
+```python
 streamlit run app.py --server.fileWatcherType none
 ```
 
