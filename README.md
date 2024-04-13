@@ -50,6 +50,16 @@ pip install -v <something>
    age = 23
    print(f"I'm {age} years old")
    ```
+2) Format String :
+   ```python
+   age = 23
+   print("I'm {} years old".format(age))
+   ```
+3) String Formatting With %d
+   ```python
+   age = 23
+   print("I'm %d years old" % (age))
+   ```
 
 ---
 
