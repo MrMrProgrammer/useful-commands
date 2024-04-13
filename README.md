@@ -43,6 +43,16 @@ pip install -v <something>
 
 ---
 
+### Inserting numbers into text in Python:
+
+1) F-String :
+   ```python
+   age = "23"
+   print(f"I'm {age} years old")
+   ```
+
+---
+
 ### Open a port :
 
 ```markdown
