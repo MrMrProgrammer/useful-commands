@@ -47,7 +47,7 @@ pip install -v <something>
 
 1) F-String :
    ```python
-   age = "23"
+   age = 23
    print(f"I'm {age} years old")
    ```
 
