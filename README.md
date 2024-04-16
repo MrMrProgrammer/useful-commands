@@ -48,7 +48,7 @@ pip install -v <something>
 - step 1 : Download theme from [here](https://www.phpmyadmin.net/themes/)
 - step 2 : Place the desired theme in the ```/theme/‍‍‍``` docker folder
   ```markdown
-  docker cp <theme folder name> <phpmyadmin container name>:/var/www/html/themes/
+  docker cp <theme_folder_name> <phpmyadmin_container_name>:/var/www/html/themes/
   ```
 
 ---
