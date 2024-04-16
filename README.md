@@ -43,8 +43,14 @@ pip install -v <something>
 
 ---
 
-### Change Phpmyadmin Theme
+### Changing the Phpmyadmin Theme
 
+- step 1 :
+  Download theme from ``` https://www.phpmyadmin.net/themes/ ```
+- step 2 :
+  ```markdown
+  docker cp <theme folder name> <phpmyadmin container name>:/var/www/html/themes/
+  ```
 
 ---
 
