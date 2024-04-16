@@ -43,6 +43,11 @@ pip install -v <something>
 
 ---
 
+### Change Phpmyadmin Theme
+
+
+---
+
 ### Inserting numbers into text in Python:
 
 1) F-String :
