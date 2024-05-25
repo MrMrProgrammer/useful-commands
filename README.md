@@ -12,6 +12,16 @@ warnings.filterwarnings("default")
 
 ---
 
+###  Update Jupyter Output :
+```
+from IPython.display import clear_output, display
+
+for i in range(10):
+    clear_output(wait=True)
+    display(f"Current value: {i}")
+```
+
+---
 
 ### Show history of latest command in terminal
 
