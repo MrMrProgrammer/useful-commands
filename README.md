@@ -13,7 +13,7 @@ warnings.filterwarnings("default")
 ---
 
 ###  Update Jupyter Output :
-```
+```python
 from IPython.display import clear_output, display
 
 for i in range(10):
