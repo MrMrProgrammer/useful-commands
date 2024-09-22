@@ -102,14 +102,6 @@ sudo ufw allow <port>
 
 ---
 
-### Run Streamlit file
-
-```python
-streamlit run app.py --server.fileWatcherType none
-```
-
----
-
 ### Change Jupyter Notebook Theam
 ```markdown
 https://saturncloud.io/blog/jupyter-notebook-dark-mode-a-step-by-step-guide/
