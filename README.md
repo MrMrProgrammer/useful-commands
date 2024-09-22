@@ -22,6 +22,17 @@ for i in range(10):
 ```
 
 ---
+### Using `fireducks` instead of `pandas` to increase speed
+
+```bash
+pip install fireducks
+```
+
+```python
+import fireducks.pandas as pd
+```
+
+---
 
 ### Show history of latest command in terminal
 
