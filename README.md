@@ -12,7 +12,7 @@ warnings.filterwarnings("default")
 
 ---
 
-###  Update Jupyter Output :
+###  Update Jupyter Output
 ```python
 from IPython.display import clear_output, display
 
@@ -22,7 +22,7 @@ for i in range(10):
 ```
 
 ---
-### Using `fireducks` instead of `pandas` to increase speed :
+### Using `fireducks` instead of `pandas` to increase speed
 
 ```bash
 pip install fireducks
@@ -94,7 +94,7 @@ pip install -v <something>
 
 ---
 
-### Open a port :
+### Open a port
 
 ```markdown
 sudo ufw allow <port>
@@ -110,7 +110,7 @@ streamlit run app.py --server.fileWatcherType none
 
 ---
 
-### Change Jupyter Notebook Theam :
+### Change Jupyter Notebook Theam
 ```markdown
 https://saturncloud.io/blog/jupyter-notebook-dark-mode-a-step-by-step-guide/
 ```
