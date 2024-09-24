@@ -34,6 +34,15 @@ import fireducks.pandas as pd
 
 ---
 
+### Convert HTML to PDF
+
+```python
+from weasyprint import HTML
+HTML('https://google.com').write_pdf(f'google.pdf')
+```
+
+---
+
 ### Show history of latest command in terminal
 
 ```markdown
