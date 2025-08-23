@@ -11,6 +11,12 @@ warnings.filterwarnings("default")
 ```
 
 ---
+#### Delete All `__pycache__` Folders
+```
+find . -type d -name "__pycache__" -exec rm -r {} +
+```
+
+---
 
 ###  Update Jupyter Output
 ```python
