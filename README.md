@@ -1,3 +1,8 @@
+### Install package in pythonanywhere.com
+```
+pip3.10 install --user jdatetime
+```
+
 ### Failure to display warnings
 
 ```python
