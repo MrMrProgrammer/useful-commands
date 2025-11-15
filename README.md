@@ -2,7 +2,15 @@
 ```
 pip3.10 install --user jdatetime
 ```
+or
+```
+pip3.10 install -r requirements.txt --user
+```
 
+⚠️ Make sure to use the pip version that matches your project's Python version. 
+For example, if your project runs on Python 3.12, use pip3.12 instead of pip3.10
+
+---
 ### Failure to display warnings
 
 ```python
