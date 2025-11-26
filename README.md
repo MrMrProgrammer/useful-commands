@@ -1,3 +1,11 @@
+### Update Google Chrome on Ubuntu
+```
+sudo apt update
+sudo apt --only-upgrade install google-chrome-stable
+```
+
+---
+
 ### Install package in pythonanywhere.com
 ```
 pip3.10 install --user jdatetime
