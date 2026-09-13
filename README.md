@@ -1,3 +1,10 @@
+### Update ubuntu
+```
+sudo apt update && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt autoclean
+```
+
+---
+
 ### Update Google Chrome on Ubuntu
 ```
 sudo apt update
